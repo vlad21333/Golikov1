@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Calculator/Calculator.csproj" Id="f098e302-9918-48a4-a1de-0a11cbf4c088" />
+  <Project Path="CalcTest/CalcTest.csproj" Id="c2979c51-cf9e-42dd-9967-211d920aaf68" />
+  <Project Path="Golikov/Golikov.csproj" Id="1d44e372-2db0-4055-ab72-c6f929ebc561" />
+</Solution>
